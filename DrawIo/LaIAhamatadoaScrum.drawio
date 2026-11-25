@@ -1,0 +1,204 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Video 2 - Scrum" id="aVaPhVvLlLb92ffbuMFr">
+    <mxGraphModel dx="1633" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-1" parent="1" style="text;html=1;fontFamily=Helvetica;fontSize=23;fontStyle=1;fontColor=#232F3E;align=left;verticalAlign=top;" value="Video 2 · La IA ha matado a Scrum" vertex="1">
+          <mxGeometry height="34" width="900" x="2" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-2" parent="1" style="text;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#545B64;align=left;verticalAlign=top;" value="Javier Garzás (mar. 2026) · https://www.youtube.com/watch?v=jrTrihcZZlc · borde punteado = complemento de otras fuentes" vertex="1">
+          <mxGeometry height="20" width="1000" x="2" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-3" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=14;fillColor=#232F3E;strokeColor=none;fontColor=#FFFFFF;fontSize=23;fontStyle=1;" value="LA IA HA&lt;br&gt;MATADO A SCRUM&lt;br&gt;(Y LO QUE VIENE)" vertex="1">
+          <mxGeometry height="150" width="270" x="687" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-4" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#E7157B;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Lectura crítica" vertex="1">
+          <mxGeometry height="34" width="190" x="590" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-5" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FCE4EF;strokeColor=#E7157B;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;dashed=1;dashPattern=5 3;fillColor=#FFFFFF;" value="Scrum.org: la IA abarata construir, no decidir qué construir ni comprobar que funciona" vertex="1">
+          <mxGeometry height="47" width="245" x="300" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-6" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FCE4EF;strokeColor=#E7157B;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;dashed=1;dashPattern=5 3;fillColor=#FFFFFF;" value="Lo que muere es el Scrum de ceremonias; inspeccionar y adaptar sigue vigente" vertex="1">
+          <mxGeometry height="47" width="245" x="455" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-7" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FCE4EF;strokeColor=#E7157B;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;dashed=1;dashPattern=5 3;fillColor=#FFFFFF;" value="Specs rígidas y exhaustivas pueden devolver al equipo a la cascada" vertex="1">
+          <mxGeometry height="47" width="245" x="730" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-8" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#545B64;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Contexto: de dónde viene Scrum" vertex="1">
+          <mxGeometry height="34" width="231" x="845" y="342" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-9" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#ECEDEE;strokeColor=#545B64;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Nace en los años 90; la Guía vigente es de 2020, anterior a ChatGPT" vertex="1">
+          <mxGeometry height="47" width="245" x="1025" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-10" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#ECEDEE;strokeColor=#545B64;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Muchos equipos lo están abandonando en silencio" vertex="1">
+          <mxGeometry height="47" width="245" x="1260" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-11" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#ECEDEE;strokeColor=#545B64;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Gestionar trabajo con IA usando modelos del pasado no encaja" vertex="1">
+          <mxGeometry height="47" width="245" x="1310" y="321" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-12" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#DD344C;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Choques con Scrum" vertex="1">
+          <mxGeometry height="34" width="190" x="1042" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-13" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FBE4E7;strokeColor=#DD344C;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="La iteración fija de 2 semanas se vuelve artificial si la IA entrega en horas" vertex="1">
+          <mxGeometry height="47" width="245" x="1360" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-14" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FBE4E7;strokeColor=#DD344C;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Con equipos más pequeños, muchas reuniones sobran" vertex="1">
+          <mxGeometry height="47" width="245" x="1360" y="491" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-15" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FBE4E7;strokeColor=#DD344C;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Product Owner y Scrum Master clásicos pierden vigencia" vertex="1">
+          <mxGeometry height="47" width="245" x="1360" y="558" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-16" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FBE4E7;strokeColor=#DD344C;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="No alcanzan como instrucción para una IA" vertex="1">
+          <mxGeometry height="34" width="245" x="1360" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-17" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#ED7100;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Dual-track: dos velocidades" vertex="1">
+          <mxGeometry height="34" width="203" x="845" y="716" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-18" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FDEEE2;strokeColor=#ED7100;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;dashed=1;dashPattern=5 3;fillColor=#FFFFFF;" value="Vibe coding: prototipos desechables para aprender del usuario" vertex="1">
+          <mxGeometry height="47" width="245" x="1270" y="716" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-19" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FDEEE2;strokeColor=#ED7100;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;dashed=1;dashPattern=5 3;fillColor=#FFFFFF;" value="Vibe engineering: código de producción con specs, pruebas y revisión" vertex="1">
+          <mxGeometry height="47" width="245" x="1190" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-20" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FDEEE2;strokeColor=#ED7100;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;dashed=1;dashPattern=5 3;fillColor=#FFFFFF;" value="Decidir qué idea pasa del carril rápido al robusto es la nueva tarea de gestión" vertex="1">
+          <mxGeometry height="47" width="245" x="940" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-21" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#8C4FFF;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Qué cambió" vertex="1">
+          <mxGeometry height="34" width="190" x="580" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-22" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#EFE8FF;strokeColor=#8C4FFF;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Personas potenciadas con IA: más capacidad por persona, equipos más pequeños" vertex="1">
+          <mxGeometry height="47" width="245" x="168" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-23" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#EFE8FF;strokeColor=#8C4FFF;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="IA generativa y vibe coding: de la idea al prototipo en horas" vertex="1">
+          <mxGeometry height="47" width="245" x="370" y="951" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-24" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#EFE8FF;strokeColor=#8C4FFF;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Cuando cambia la tecnología, cambia la forma de gestionar" vertex="1">
+          <mxGeometry height="47" width="245" x="648" y="917" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-25" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#3F8624;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Lo que emerge" vertex="1">
+          <mxGeometry height="34" width="190" x="380" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-26" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E9F2E5;strokeColor=#3F8624;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Dos carriles de trabajo en paralelo" vertex="1">
+          <mxGeometry height="34" width="245" x="20" y="269" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-27" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E9F2E5;strokeColor=#3F8624;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Controlar y verificar lo que hace la IA" vertex="1">
+          <mxGeometry height="34" width="245" x="20" y="349" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-28" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E9F2E5;strokeColor=#3F8624;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Especificar antes de generar" vertex="1">
+          <mxGeometry height="34" width="245" x="20" y="429" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-29" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E9F2E5;strokeColor=#3F8624;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="En lugar de iteraciones de tamaño fijo" vertex="1">
+          <mxGeometry height="34" width="245" x="20" y="509" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-30" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#007DBC;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Nueva QA y specs" vertex="1">
+          <mxGeometry height="34" width="190" x="407" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-31" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E2F0F7;strokeColor=#007DBC;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;dashed=1;dashPattern=5 3;fillColor=#FFFFFF;" value="La IA tiende a dar por bueno su propio trabajo: hacen falta controles externos" vertex="1">
+          <mxGeometry height="47" width="245" x="20" y="579" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-32" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E2F0F7;strokeColor=#007DBC;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;dashed=1;dashPattern=5 3;fillColor=#FFFFFF;" value="Revisión humana + pruebas automatizadas + análisis estático y de seguridad" vertex="1">
+          <mxGeometry height="47" width="245" x="20" y="666" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-33" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E2F0F7;strokeColor=#007DBC;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;dashed=1;dashPattern=5 3;fillColor=#FFFFFF;" value="La historia expresa la intención; la spec da al agente contexto, restricciones y criterios verificables" vertex="1">
+          <mxGeometry height="60" width="245" x="20" y="753" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-34" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#E7157B;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-35" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-4" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#E7157B;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="uu0Akmfl-hh92NC6NqQR-5" value="Contrapunto">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-36" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-4" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#E7157B;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-6" value="Matiz">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-37" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-4" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#E7157B;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-7" value="Riesgo">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-38" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#545B64;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-39" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-8" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#545B64;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-9" value="Origen">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-40" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-8" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#545B64;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-10" value="Hoy">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-41" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-8" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#545B64;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-11" value="Problema">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-42" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-43" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-12" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-13" value="Sprint">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-44" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-12" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-14" value="Ceremonias">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-45" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-12" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-15" value="Roles">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-46" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-12" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-16" value="Historias de usuario">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-47" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#ED7100;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-48" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-17" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#ED7100;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-18" value="Carril rápido">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-49" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-17" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#ED7100;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="uu0Akmfl-hh92NC6NqQR-19" value="Carril robusto">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-50" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-17" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#ED7100;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-20" value="Transición">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-51" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#8C4FFF;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-52" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-21" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#8C4FFF;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-22" value="Personas">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-53" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-21" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#8C4FFF;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-23" value="Herramientas">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-54" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-21" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#8C4FFF;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-24" value="Gestión">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-55" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-56" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-25" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="uu0Akmfl-hh92NC6NqQR-26" value="Dual-track">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-57" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-25" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="uu0Akmfl-hh92NC6NqQR-27" value="Nueva QA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-58" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-25" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-28" value="Specs y SDD">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-59" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-25" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" value="Flujo continuo">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-60" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#007DBC;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="uu0Akmfl-hh92NC6NqQR-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-61" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-30" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#007DBC;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uu0Akmfl-hh92NC6NqQR-31" value="Autoevaluación">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-62" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-30" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#007DBC;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="uu0Akmfl-hh92NC6NqQR-32" value="Controles">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-63" edge="1" parent="1" source="uu0Akmfl-hh92NC6NqQR-30" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#007DBC;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="uu0Akmfl-hh92NC6NqQR-33" value="Spec vs. historia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uu0Akmfl-hh92NC6NqQR-64" parent="1" style="text;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#879196;align=right;verticalAlign=bottom;" value="Santiago Jaimes · Semillero AWS s2026q2c · Micro-assignment Spec-Driven Development" vertex="1">
+          <mxGeometry height="20" width="430" x="1190" y="1000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

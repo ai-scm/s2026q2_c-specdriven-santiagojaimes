@@ -1,0 +1,232 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Video 1 - SDD" id="OmoyG3YTDSROXVQwzLw-">
+    <mxGraphModel dx="1700" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7iRkODXWUrXF881n69Xg-1" parent="1" style="text;html=1;fontFamily=Helvetica;fontSize=23;fontStyle=1;fontColor=#232F3E;align=left;verticalAlign=top;" value="Video 1 · Spec-Driven Development" vertex="1">
+          <mxGeometry height="34" width="900" x="2" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-2" parent="1" style="text;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#545B64;align=left;verticalAlign=top;" value="IBM Technology · Cedric Clyburn (feb. 2026) · AI Assisted Coding Explained · https://youtu.be/mViFYTwWvcM" vertex="1">
+          <mxGeometry height="20" width="1000" x="2" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-3" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=14;fillColor=#232F3E;strokeColor=none;fontColor=#FFFFFF;fontSize=23;fontStyle=1;" value="SPEC-DRIVEN&lt;br&gt;DEVELOPMENT" vertex="1">
+          <mxGeometry height="120" width="250" x="720" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-4" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#E7157B;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="El problema: vibe coding" vertex="1">
+          <mxGeometry height="34" width="190" x="630" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-5" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FCE4EF;strokeColor=#E7157B;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Objetivos sueltos y prompts repetidos hasta que el resultado &quot;se ve bien&quot;" vertex="1">
+          <mxGeometry height="47" width="245" x="250" y="192" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-6" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FCE4EF;strokeColor=#E7157B;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Rápido pero inconsistente: cada iteración puede cambiar decisiones anteriores" vertex="1">
+          <mxGeometry height="47" width="245" x="360" y="84" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-7" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FCE4EF;strokeColor=#E7157B;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Se salta fases del SDLC: planeación, diseño y pruebas" vertex="1">
+          <mxGeometry height="47" width="245" x="640" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-8" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FCE4EF;strokeColor=#E7157B;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Útil para explorar y prototipar; no para sistemas que hay que mantener" vertex="1">
+          <mxGeometry height="47" width="245" x="790" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-9" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#8C4FFF;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Idea central" vertex="1">
+          <mxGeometry height="34" width="190" x="950" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-10" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#EFE8FF;strokeColor=#8C4FFF;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Se escribe y se acuerda una especificación detallada antes de generar código" vertex="1">
+          <mxGeometry height="47" width="245" x="1040" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-11" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#EFE8FF;strokeColor=#8C4FFF;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="La spec define comportamiento, restricciones y requisitos" vertex="1">
+          <mxGeometry height="47" width="245" x="1170" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-12" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#EFE8FF;strokeColor=#8C4FFF;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Fuente única de verdad para las personas y para los agentes de IA" vertex="1">
+          <mxGeometry height="47" width="245" x="1320" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-13" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#EFE8FF;strokeColor=#8C4FFF;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Une los LLM con prácticas de ingeniería probadas: no reemplaza el SDLC, lo hace explícito" vertex="1">
+          <mxGeometry height="60" width="245" x="1395" y="344" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-14" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#DD344C;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="SDD dentro del SDLC" vertex="1">
+          <mxGeometry height="34" width="190" x="1055" y="637" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-15" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FBE4E7;strokeColor=#DD344C;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Define resultados deseados, restricciones y comportamiento del sistema" vertex="1">
+          <mxGeometry height="47" width="245" x="1395" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-16" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FBE4E7;strokeColor=#DD344C;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="La spec se traduce en documentos de diseño" vertex="1">
+          <mxGeometry height="34" width="245" x="1395" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-17" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FBE4E7;strokeColor=#DD344C;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="La IA genera código a partir del diseño" vertex="1">
+          <mxGeometry height="34" width="245" x="1395" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-18" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FBE4E7;strokeColor=#DD344C;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Se verifica contra la spec original" vertex="1">
+          <mxGeometry height="34" width="245" x="1395" y="664" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-19" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FBE4E7;strokeColor=#DD344C;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="La spec es la referencia para cambios y correcciones" vertex="1">
+          <mxGeometry height="47" width="245" x="1395" y="716" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-20" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#ED7100;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Beneficios" vertex="1">
+          <mxGeometry height="34" width="190" x="960" y="803" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-21" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FDEEE2;strokeColor=#ED7100;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Menos ambigüedad para humanos y modelos" vertex="1">
+          <mxGeometry height="34" width="245" x="1395" y="828" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-22" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FDEEE2;strokeColor=#ED7100;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="El agente se mantiene dentro de los objetivos del proyecto" vertex="1">
+          <mxGeometry height="47" width="245" x="1385" y="898" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-23" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FDEEE2;strokeColor=#ED7100;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Menos retrabajo entre iteraciones" vertex="1">
+          <mxGeometry height="34" width="245" x="1350" y="978" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-24" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#FDEEE2;strokeColor=#ED7100;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="La spec alimenta pruebas, QA y documentación" vertex="1">
+          <mxGeometry height="47" width="245" x="1175" y="1048" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-25" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#007DBC;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Ejemplo: autenticación de usuarios" vertex="1">
+          <mxGeometry height="34" width="246" x="560" y="864" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-26" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E2F0F7;strokeColor=#007DBC;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Comportamiento del endpoint, validación de usuario y contraseña, manejo de entradas inválidas" vertex="1">
+          <mxGeometry height="60" width="245" x="180" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-27" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E2F0F7;strokeColor=#007DBC;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Arquitectura y flujo de datos del login" vertex="1">
+          <mxGeometry height="34" width="245" x="320" y="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-28" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E2F0F7;strokeColor=#007DBC;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="La IA implementa contra la spec" vertex="1">
+          <mxGeometry height="34" width="245" x="590" y="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-29" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E2F0F7;strokeColor=#007DBC;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Se prueba contra los requisitos y se corrigen las diferencias" vertex="1">
+          <mxGeometry height="47" width="245" x="840" y="1005" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-30" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#545B64;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Comparación con otros enfoques" vertex="1">
+          <mxGeometry height="34" width="235" x="470" y="706" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-31" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#ECEDEE;strokeColor=#545B64;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Se programa por intuición y se documenta después; riesgo de desalineación" vertex="1">
+          <mxGeometry height="47" width="245" x="40" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-32" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#ECEDEE;strokeColor=#545B64;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Pruebas antes del código; SDD lo complementa con specs completas" vertex="1">
+          <mxGeometry height="47" width="245" x="80" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-33" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#ECEDEE;strokeColor=#545B64;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Velocidad de exploración frente a precisión y mantenibilidad" vertex="1">
+          <mxGeometry height="47" width="245" x="150" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-34" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=12;fillColor=#3F8624;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" value="Proceso en 4 pasos" vertex="1">
+          <mxGeometry height="34" width="190" x="490" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-35" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E9F2E5;strokeColor=#3F8624;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Requisitos, restricciones y comportamiento esperado, con el mayor detalle posible" vertex="1">
+          <mxGeometry height="47" width="245" x="180" y="297" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-36" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E9F2E5;strokeColor=#3F8624;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Documento de diseño (arquitectura, flujo de datos, lineamientos): puente entre plan y código" vertex="1">
+          <mxGeometry height="60" width="245" x="70" y="376" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-37" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E9F2E5;strokeColor=#3F8624;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="La IA produce código, pruebas y verificación ciñéndose al diseño" vertex="1">
+          <mxGeometry height="47" width="245" x="40" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-38" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;rounded=1;arcSize=18;fillColor=#E9F2E5;strokeColor=#3F8624;strokeWidth=1.5;fontColor=#232F3E;fontSize=11;spacing=6;" value="Retroalimentación y pruebas hasta cumplir la spec" vertex="1">
+          <mxGeometry height="47" width="245" x="40" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-39" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#E7157B;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-40" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-4" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#E7157B;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-5" value="Cómo se trabaja">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-41" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-4" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#E7157B;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-6" value="Consecuencia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-42" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-4" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#E7157B;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-7" value="Riesgo">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-43" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-4" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#E7157B;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-8" value="Uso válido">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-44" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#8C4FFF;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-45" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-9" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#8C4FFF;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-10" value="Spec primero">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-46" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-9" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#8C4FFF;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-11" value="Contrato">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-47" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-9" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#8C4FFF;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-12" value="Fuente de verdad">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-48" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-9" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#8C4FFF;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-13" value="Enfoque">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-49" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-50" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-14" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-15" value="Planeación">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-51" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-14" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-16" value="Diseño">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-52" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-14" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-17" value="Implementación">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-53" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-14" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-18" value="Pruebas">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-54" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-14" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#DD344C;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-19" value="Mantenimiento">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-55" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#ED7100;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-56" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-20" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#ED7100;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-21" value="Claridad">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-57" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-20" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#ED7100;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="7iRkODXWUrXF881n69Xg-22" value="Alineación">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-58" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-20" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#ED7100;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="7iRkODXWUrXF881n69Xg-23" value="Eficiencia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-59" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-20" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#ED7100;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-24" value="Escalabilidad">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-60" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#007DBC;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-61" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-25" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#007DBC;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-26" value="Spec">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-62" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-25" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#007DBC;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-27" value="Diseño">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-63" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-25" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#007DBC;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-28" value="Generación">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-64" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-25" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#007DBC;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-29" value="Verificación">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-65" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#545B64;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-66" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-30" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#545B64;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="7iRkODXWUrXF881n69Xg-31" value="Code-first">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-67" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-30" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#545B64;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="7iRkODXWUrXF881n69Xg-32" value="TDD">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-68" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-30" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#545B64;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;exitX=0.139;exitY=1.146;exitDx=0;exitDy=0;exitPerimeter=0;" target="7iRkODXWUrXF881n69Xg-33" value="Vibe coding">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-69" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-3" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=2.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-70" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-34" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-35" value="1. Especificar">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-71" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-34" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-36" value="2. Diseñar">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-72" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-34" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-37" value="3. Generar">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-73" edge="1" parent="1" source="7iRkODXWUrXF881n69Xg-34" style="endArrow=classic;endFill=1;endSize=7;html=1;rounded=0;strokeColor=#3F8624;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#232F3E;labelBackgroundColor=#FFFFFF;" target="7iRkODXWUrXF881n69Xg-38" value="4. Iterar">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iRkODXWUrXF881n69Xg-74" parent="1" style="text;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#879196;align=right;verticalAlign=bottom;" value="Santiago Jaimes · Semillero AWS s2026q2c · Micro-assignment Spec-Driven Development" vertex="1">
+          <mxGeometry height="20" width="700" x="930" y="1130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
