@@ -22,7 +22,10 @@ requisitos) y como fuente única de verdad para el equipo y para el agente.
 - **Frente a otros enfoques:** complementa a TDD y corrige el riesgo de desalineación del *code-first*.
 - **Beneficios:** claridad, alineación del agente, menos retrabajo y escalabilidad.
 
-![Mapa mental: Spec-Driven Development](../img/01-mapa-spec-driven-development.png)
+
+
+<img width="1640" height="1146" alt="Spec-Driven drawio" src="https://github.com/user-attachments/assets/63ff2ef8-8809-430d-91c4-7431d2613091" />
+
 
 Archivo editable: [`diagramas/01-mapa-spec-driven-development.drawio`](../diagramas/01-mapa-spec-driven-development.drawio)
 
@@ -44,7 +47,9 @@ instrucción para una IA.
 - **Conexión con la Parte 1:** el carril robusto es Spec-Driven Development.
 - **Lectura crítica:** Scrum.org responde que la IA abarata construir, no decidir qué construir ni comprobar que funciona; lo que muere es el Scrum de ceremonias.
 
-![Mapa mental: La IA ha matado a Scrum](../img/02-mapa-la-ia-ha-matado-scrum.png)
+
+<img width="1618" height="1016" alt="LaIAhamatadoaScrum drawio" src="https://github.com/user-attachments/assets/6851b3e3-8c5d-4782-a1aa-69b5ff7846cd" />
+
 
 Archivo editable: [`diagramas/02-mapa-la-ia-ha-matado-scrum.drawio`](../diagramas/02-mapa-la-ia-ha-matado-scrum.drawio).
 Los recuadros con borde punteado son complementos de otras fuentes (Scrum Manager,
@@ -213,6 +218,3 @@ flowchart LR
 - Cursor Docs, Cloud Agents: https://cursor.com/docs/cloud-agent
 - Cursor Docs, Bugbot: https://cursor.com/docs/bugbot
 - Cursor Docs, hooks: https://cursor.com/docs/agent/hooks
-- Engadget, *SpaceXAI launches Grok 4.5, its first built with Cursor's help* (jul. 2026)
-- Engadget, *SpaceX has officially acquired AI coding startup Cursor* (ago. 2026)
-- Gizmodo, *Grok gets Cursor-driven upgrade* (Grok 4.6)
